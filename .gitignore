@@ -1,2 +1,5 @@
 .vscode/
 GO_SERVER.code-workspace
+*.pprof
+.vs/
+*.exe
